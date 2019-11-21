@@ -1,10 +1,13 @@
 # 教学管理信息系统
 
 #### 介绍
-武汉理工大学数据库系统综合实验课程实验项目源码。
+这是武汉理工大学“数据库系统综合实验”课程实验项目源码。选题为《教学管理信息系统的设计与实现》。
 
-#### 软件架构
-软件架构说明
+
+#### 开发环境说明
+1.  本项目使用VS 2017开发，开发语言：C#；
+2.  SQL Server为2017版本；
+3.  配合插件DevExpress。
 
 
 #### 安装教程
@@ -13,25 +16,10 @@
 2.  然后将项目代码中的与数据库连接相关的部分的用户名修改为自己的SQL Server服务器的用户名
 3.  xxxx
 
-#### 使用说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+#### 关于作者
 
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 码云特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  码云官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解码云上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是码云最有价值开源项目，是码云综合评定出的优秀开源项目
-5.  码云官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  码云封面人物是一档用来展示码云会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+1.  个人网址：[https://www.cxhit.com](https://www.cxhit.com)
+2.  CSDN博客 [https://blog.csdn.net/cxh_1231](https://blog.csdn.net/cxh_1231)
+3.  作者GitHub：[https://github.com/cxh1231](https://github.com/cxh1231)
+4.  作者微信公众号：知行校园汇
