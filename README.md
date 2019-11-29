@@ -3,7 +3,10 @@
 #### 介绍
 这是武汉理工大学“数据库系统综合实验”课程实验项目源码。选题为《教学管理信息系统的设计与实现》。
 
+
 #### 项目截图
+![输入图片说明](https://images.gitee.com/uploads/images/2019/1130/000244_1bdd3dfb_5042354.png "图片1.png")
+![输入图片说明](https://images.gitee.com/uploads/images/2019/1130/000252_8d245db3_5042354.png "图片2.png")
 
 
 #### 开发环境说明
