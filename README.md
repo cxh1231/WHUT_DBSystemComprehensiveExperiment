@@ -2,6 +2,7 @@
 
 #### 介绍
 这是武汉理工大学“数据库系统综合实验”课程实验项目源码。选题为《教学管理信息系统的设计与实现》。
+
 完整的项目介绍请转至：[https://blog.csdn.net/cxh_1231/article/details/86475568](https://blog.csdn.net/cxh_1231/article/details/86475568)
 
 
@@ -24,26 +25,7 @@
 1.  首先将【SQL Server】文件夹下的两个数据库文件，导入到Microsoft SQL Server服务器中；
 2.  然后将项目代码中的与数据库连接相关的部分的用户名修改为自己的SQL Server服务器的用户名
     如FormLogin.cs项目中的代码：
-
-```
-        /*连接数据库，得到DataSet类的对象，并返回data*/
-        private DataSet GetData(string sql)
-        {
-            //连接数据库
-            string con = "";//, sql = "";//con为连接数据库的字符，sql为SQL查询语句
-            con = "Data Source=这里修改为自己SQL Server用户名;Initial Catalog=教学管理信息系统;Integrated Security=True";
-            //con = "Data Source=CHENXIUHAO;Initial Catalog=教学管理信息系统;Integrated Security=True";
-
-            SqlConnection mycon = new SqlConnection(con);
-            mycon.Open();//打开数据库
-
-            SqlDataAdapter myda = new SqlDataAdapter(sql, con);
-            DataSet dataSet = new DataSet();
-            myda.Fill(dataSet, "Teacher");
-            mycon.Close();
-            return dataSet;
-        }
-```
+![修改数据库连接字符串](https://images.gitee.com/uploads/images/2019/1130/000941_62e9e3c9_5042354.png "TIM截图20191130000909.png")
 用户名在哪儿？如下图所示：
 ![数据库用户名](https://images.gitee.com/uploads/images/2019/1121/230105_51f2916a_5042354.png "TIM截图20191121230040.png")
 
