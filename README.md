@@ -2,6 +2,7 @@
 
 #### 介绍
 这是武汉理工大学“数据库系统综合实验”课程实验项目源码。选题为《教学管理信息系统的设计与实现》。
+完整的项目介绍请转至：[https://blog.csdn.net/cxh_1231/article/details/86475568](https://blog.csdn.net/cxh_1231/article/details/86475568)
 
 
 #### 项目截图
