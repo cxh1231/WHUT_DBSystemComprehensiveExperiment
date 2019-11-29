@@ -3,11 +3,16 @@
 #### 介绍
 这是武汉理工大学“数据库系统综合实验”课程实验项目源码。选题为《教学管理信息系统的设计与实现》。
 
+#### 项目截图
+
 
 #### 开发环境说明
 1.  本项目使用VS 2017开发，开发语言：C#；
 2.  SQL Server为2017版本：V17.9.1；
-3.  配合插件DevExpress。
+3.  【重要】插件：DevExpress。插件官网：[https://www.devexpresscn.com/](https://www.devexpresscn.com/)。
+4. 不安装DevExpress，无法打开项目！！！！！！
+4. 不安装DevExpress，无法打开项目！！！！！！
+4. 不安装DevExpress，无法打开项目！！！！！！
 
 
 #### 安装教程
